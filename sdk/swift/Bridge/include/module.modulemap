@@ -1,0 +1,4 @@
+module CodexEmbeddedBridge {
+    header "codex_swift_bridge.h"
+    export *
+}
